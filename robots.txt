@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /podium
+Allow: /podium/default.aspx*
+Disallow: /api
+Disallow: /app$
+Disallow: /app/
+Disallow: /ftpimages
